@@ -5,3 +5,8 @@ ___
 ___
 **Profesor:** Dr. Andrés Cornejo
 
+## 1. Introducción
+
+## 2. Antecedentes
+
+## 3. Instrucciones de uso
