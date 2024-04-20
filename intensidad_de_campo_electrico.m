@@ -23,7 +23,8 @@ axis equal;
 hold on;
 
 % Graficar el punto en el origen
-scatter(0, 0, 'filled');  % 'filled' para rellenar el punto
+%scatter(0, 0, 'filled');  % 'filled' para rellenar el punto
+plot(0, 0, 'ro', 'MarkerSize', 10); % Marcar la posición de la carga puntual 1
 hold on;  % Mantener la gráfica actual
 
 % Etiquetar el punto en el origen
