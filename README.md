@@ -7,6 +7,8 @@ ___
 
 ## 1. Introducción
 
+El electromagnetismo es 
+
 ## 2. Antecedentes
 
 ## 3. Instrucciones de uso
