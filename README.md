@@ -30,34 +30,45 @@ Con estos pasos, habrás descargado el repositorio de GitHub en formato ZIP y po
 
 ## 4. Práctica 1
 
-### Título: Práctica 1: Intensidad de Campo Eléctrico, Ley de Coulomb y Distribución de Cargas Discretas
+## Título: Práctica 1: Intensidad de Campo Eléctrico, Ley de Coulomb y Distribución de Cargas Discretas
 
-#### Objetivos:
+## Objetivos:
 1. Comprender el concepto de intensidad de campo eléctrico y su relación con la fuerza experimentada por una carga de prueba en presencia de una carga puntual.
 2. Aplicar la ley de Coulomb para calcular la fuerza eléctrica entre dos cargas puntuales y entender cómo varía esta fuerza con la distancia entre ellas.
 3. Analizar la distribución de cargas discretas y calcular la intensidad de campo eléctrico en puntos específicos utilizando la superposición de campos generados por cada carga.
 
-#### Materiales:
+## Materiales:
 
 - Software de Programación: `MATLAB` (No se limita su uso, puede ser otro lenguaje/software)
 
-#### Procedimiento:
+## Procedimiento:
 1. **Intensidad de Campo Eléctrico:**
-   - 
+   - Encuentre la intensidad de campo eléctrico en P(-0.2, 0, -2.3) debido a una carga puntual q1 de 5 [nC] en Q(0.2, 0.1, -2.5) en el aire.
+     - Comprobar si el campo es irrotacional
+     - Graficar el Campo en dicho punto
+     - Indicar en el gráfico el punto evaluado.
 
 2. **Ley de Coulomb:**
-   - 
+   - Una carga q1 de 8 [uC] localizada en P1(2, 5, 8) y una q2 de -5 [uC] está en P2(6, 15, 8), en el espacio libre. Encontrar a) La Fuerza ejercida en q2, b) Encontrar las coordenadas de un punto P3, si una carga q3 experimenta una Fuerza de cero en P3.
+     - Graficas en ambos casos
+     - Indicar en el gráfico el punto evaluado en ambos casos
 
 3. **Distribución de Cargas Discretas:**
-   - 
+   - Puntos de carga de 50 [nC] están localizados en A(1, 0, 0), B(-1, 0, 0), C(0, 1, 0) y D(0, -1, 0) en el espacio libre. Encuentre la Fuerza total ejercida sobre la carga en el punto A.
+     - Graficar la Fuerza en dicho punto.
+     - Indicar en el gráfico el punto evaluado.
 
-#### Resultados y Discusión:
+## Resultados y Discusión:
 - Presentar tablas con los valores calculados de intensidad de campo eléctrico y fuerza eléctrica, así como los gráficos generados durante la práctica.
 - Analizar cómo varían la intensidad de campo eléctrico y la fuerza eléctrica en función de la distancia y la distribución de cargas.
 - Discutir la importancia de los conceptos de intensidad de campo eléctrico, ley de Coulomb y distribución de cargas discretas en el estudio y comprensión de fenómenos electromagnéticos.
 
-#### Conclusiones:
+## Conclusiones:
 - Resumir los principales hallazgos y conclusiones derivadas de la práctica, destacando la importancia de los conceptos de electromagnetismo abordados.
 - Reflexionar sobre la relación entre la teoría estudiada en clase y su aplicación práctica en la resolución de problemas de electromagnetismo.
 
 La práctica estará en formato IEEE, lo que proporciona una estructura clara y detallada para la realización y presentación de la práctica.
+
+## 5. Notas Finales
+
+:warning: En este repositorio podrás encontrar el script de código en `MATLAB` que sirve de guía inicial para desarrollar los problemas planteados para esta práctica. Dicho códgo tiene por nombre `intensidad_de_campo_electrico.m`
