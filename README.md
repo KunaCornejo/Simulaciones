@@ -4,6 +4,7 @@ ___
 
 ___
 **Profesor:** Dr. Andrés Cornejo
+**Semestre:** Marzo -- Agosto, 2024
 
 ## 1. Introducción
 
