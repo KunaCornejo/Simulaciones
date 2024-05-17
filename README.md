@@ -3,6 +3,8 @@ ___
 <img src='./docs/logo_U_Cuenca.png' height='100'/>
 
 ___
+**Facultad:** Ingeniería
+**Carrera:** Telecomunicaciones
 **Profesor:** Dr. Andrés Cornejo
 **Semestre:** Marzo -- Agosto, 2024
 
