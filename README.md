@@ -6,7 +6,7 @@ ___
 - **Facultad:** Ingeniería
 - **Carrera:** Telecomunicaciones
 - **Profesor:** Dr. Andrés Cornejo
-- **Semestre:** Marzo -- Agosto, 2024
+- **Semestre:** Marzo -- Julio, 2024
 
 ## 1. Introducción
 
