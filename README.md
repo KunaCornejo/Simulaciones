@@ -77,3 +77,4 @@ La práctica estará en formato IEEE, lo que proporciona una estructura clara y 
 :warning: En este repositorio podrás encontrar el script de código en `MATLAB` que sirve de guía inicial para desarrollar los problemas planteados para esta práctica. Dicho códgo tiene por nombre `intensidad_de_campo_electrico.m`
 
 _®2024, Todos los derechos reservados_
+Cuenca, EC
